@@ -1,0 +1,28 @@
+{
+  "name": "sentiment_bot",
+  "version": "0.0.1",
+  "description": "A twitter bot that analyzes sentiment values of tweets",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YaroBear/sentiment-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "twit",
+    "bot",
+    "sentiment"
+  ],
+  "author": "Yaroslav Berejnoi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YaroBear/sentiment-bot/issues"
+  },
+  "homepage": "https://github.com/YaroBear/sentiment-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
